@@ -11,7 +11,7 @@
 - sepal width (cm)
 - petal length (cm)
 - petal width (cm)
-### target
+### Target
 - setosa
 - versicolor
 - virginica
@@ -28,7 +28,7 @@
 - Has Credit Card
 - Is Active Member
 - Estimated Salary
-### target
+### Target
 - Exited leave or not
 
 ## Artificial Neural Network Regression
@@ -37,12 +37,12 @@
 - Exhaust Vacuum
 - Ambient Pressure
 - Relative Humidity
-### target
+### Target
 - Net hourly electrical energy output
 
 ##  Convolutional Neural Networks (CNN)
 ### Feature
 - cat picture
 - dog picture
-### target
+### Target
 - cat or dog
