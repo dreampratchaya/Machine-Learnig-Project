@@ -1,6 +1,7 @@
 
 # Model Selection _ Boosting
-- Model Selection
+- Grid Search
+- k-fold Cross-Validation
 - XGBoost
 
 
