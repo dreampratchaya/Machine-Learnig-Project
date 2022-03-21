@@ -29,7 +29,7 @@
 - Is Active Member
 - Estimated Salary
 ### Target
-- Exited leave or not
+- leave or not
 
 ## Artificial Neural Network Regression
 ### Feature
